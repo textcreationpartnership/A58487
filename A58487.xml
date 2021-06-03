@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarques on a pamphlet intitled Prudential reasons for repealing the penal laws against all recusants and for a general toleration / penn'd by a Protestant person of quality.</title>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58487</idno><idno type="EEBO-CITATION">13651550</idno>
+  <idno type="VID">100991</idno>
+  <idno type="EEBO-PROQUEST">2264212895</idno>
+  
+            <idno type="STC">Wing R929</idno>
+            <idno type="STC">ESTC R33991</idno>
+            <idno type="OCLC">13651550</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarques on a pamphlet intitled Prudential reasons for repealing the penal laws against all recusants and for a general toleration / penn'd by a Protestant person of quality.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:100991:1"/>
+            <pb n="1" facs="tcp:100991:1"/>
+            <head>REMARQUES On a Pamphlet intitled <hi>Prudential Reasons</hi> For Repealing The Penal Laws Against all Recusants; And for a General TOLERATION: Penn'd by a Protestant Person of Quality.</head>
+            <epigraph>
+               <q>
+                  <l>My Proselytes are struck with awful dread,</l>
+                  <l>Your bloody Comet-laws hang blazing o're their head.</l>
+                  <bibl>
+                     <hi>Hind</hi> and <hi>Panther, p. 94.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>WHen the famous <hi>Paolo Soave,</hi>
+               <note place="margin">See the Ap<g ref="char:EOLhyphen"/>pendix to AB. <hi>Ʋsh<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs</hi> Leeters. p.</note> Author of the History of the Council of <hi>Trent,</hi> was desir'd by one that knew his abi<g ref="char:EOLhyphen"/>lities, to impart to him such directions as might be useful in his study of Divinity, He gave him this general Rule, <hi>that he should consult the Jesuits, and resolve the clean contrary to what they said.</hi> Such an opinion of them many thinking men of this Nation
+<pb n="2" facs="tcp:100991:2"/>seem to have entertained, and have judged it a mark of Integrity and Wisdom, to act in a direct opposition to their Morals and Politiques.</p>
+            <p>This was one cause that their attempts of late did not make the impressions they expected: For however these Reverend Fa<g ref="char:EOLhyphen"/>thers were cover'd with power, yet their want of credit checkt their forward motions; and their haste and impatience to see their designs successful rendred them abortive. The fierceness of their temper push'd them into such invincible difficulties, as perhaps they might have avoided, to our cost, had they practis'd according to the slower methods of close and regular Vil<g ref="char:EOLhyphen"/>lany.</p>
+            <p>Yet furious as they were, they did not wholly neglect the Rules of Art, nor was their conduct without some mixture of fineness. <hi>Haereticorum bella, pax Ecclesiae,</hi> was a Maxim laid down by a Brother of their Society;<note place="margin">Contzen. Polit. l. <hi>2.</hi> c. <hi>19.</hi>
+               </note> and that they had a competent understanding of it may appear by their endeavours to engage Hereticks against Hereticks; that when they were weakned by mutual opposition, both might become their easy prey.</p>
+            <p>They invited the Protestant Dissenters to their aid with all i<g ref="char:EOLhyphen"/>maginable application, but found the wiser part of them distrustful of their words, which were smoother than Oyl. They could not prevail with them, to throw in to their mouths the lus<g ref="char:EOLhyphen"/>cious Morsel they desir'd, nor make them fond of the Priviledge of being last devour'd.</p>
+            <p>Others they warpt into a Servile compliance, and then En<g ref="char:EOLhyphen"/>deavour'd to keep up their hearts under a very shameful drudgery. For this purpose, variety of Pamplets were dispers'd through the Kingdom: And amongst the rest came out the Prudential Rea<g ref="char:EOLhyphen"/>sons, <hi>&amp;c.</hi> By a Protestant Person of Quality: For so, by I know not what figure, he is pleased to call himself; who is a man certainly of a peculiar temper, and distinguished by such an Air of assurance, as is not common.</p>
+            <p>But one is not inclin'd to believe every thing that is pro<g ref="char:EOLhyphen"/>nounced as an Oracle: On the contrary persons that are most assuming do but raise a suspicion of their performances; as they that boast so much of their wonderful Elixirs, their Panacea's or universal Medicines, however they may gain some reputation amongst the Vulgar, are thought by the more intelligent to be Quacks or Impostors.</p>
+            <pb n="3" facs="tcp:100991:2"/>
+            <p> This Author pretends to shew what are the Symptoms of a <hi>diseased and crazy State,</hi> and <hi>what may prevent Convulsions in</hi> it: <hi>What repels the humours in the Body Politick,</hi> &amp; what makes them <hi>ea<g ref="char:EOLhyphen"/>ger and virulent:</hi> How it becomes <hi>replenish'd with malignities and then what danger it is in from Jogging and Stirring.</hi> But we that have seen the Body Politick thrown into dreadful distempers and ago<g ref="char:EOLhyphen"/>nies, by taking the doses, and observing the prescriptions, which he recommends, cannot have that opinion of his Skill which he seems to have entertain'd.</p>
+            <p>He fanci'd that he had found out the <hi>Interest of all Parties, and even that of the King and the Countrey.</hi> A matter certtainly of great importance! and lest we should think that being a Person of Quality, he arriv'd at the knowledge of this by the advan<g ref="char:EOLhyphen"/>tage he has had of an eminent Station, he hath taken care to in<g ref="char:EOLhyphen"/>form us, that he <hi>never was of the Council, neither was he of the Par<g ref="char:EOLhyphen"/>liament.</hi> So little consideration has been had of his Merit!</p>
+            <p>But now that we are satisfied, he is no Peer of the Realm, and that his condition in the World is not extraordinary, enquiry may still be made, how he came to be such a man of intrigue? And I find not that he, like a predecessor of his in the Politiques re<g ref="char:EOLhyphen"/>ceiv'd any intelligence <hi>in Colchester Oysters, or from the Low-Coun<g ref="char:EOLhyphen"/>tries in Cabages,</hi> on which he might build his discoveries: But the way he us'd is plain enough, now that he has made it publick; for he did but <hi>wipe his Eyes,</hi> and then he saw how the great af<g ref="char:EOLhyphen"/>fairs in debate might be adjusted. The <hi>Cecils</hi> and the <hi>Walsinghams</hi> might have seen as much, but they, good men! understood not this Mystery of <hi>Wiping their Eyes. The interests of all parties did not lie so deep under ground, as 'twas thought,</hi> yet did they not pene<g ref="char:EOLhyphen"/>trate into them, because they were <hi>Mop't</hi> with <hi>prejudice and passion.</hi> But after all, I cannot attribute to this Prudentialist the glory of the first invention of what he advances, for it seems to be the very same with what was propos'd by <hi>Cole<g ref="char:EOLhyphen"/>man,</hi> as a fit means of extirpating the Northern Heresy.</p>
+            <p>However, being thus Exalted in his opinion of New Light, he thought himself qualified to censure the Government of Queen <hi>Elizabeth,</hi>
+               <note place="margin">p. 2.</note>
+               <hi>and he says</hi> that <hi>she gave Life and Birth to Laws of extream Severity,</hi>
+               <note place="margin">p. 5.</note>
+               <hi>against Roman Catholick and Puritan Recusants:</hi> And in another place having discours'd of the Barbarous Coun<g ref="char:EOLhyphen"/>sel suggested by <hi>Frier Hogostrate,</hi> he presently adds, <hi>that this Method was followed by Queen</hi> Elizabeth: And so parallels her
+<pb n="4" facs="tcp:100991:3"/>proceedings with the advice of that bloody wretch whom he calls <hi>Achitophel.</hi> One has some pain to read reflections so odious, yet it cannot be deni'd, but they were prudentially tim'd and very fashionable, when they were made; for what was then the business of many pamphlets, but to blast the reputation of that admirable Queen, who, as a<note n="*" place="margin">Hardovin de Peresixe Hist. du Roy Hen. Le Grand, <hi>p. 306.</hi>
+               </note> great Prelate of the Roman Com<g ref="char:EOLhyphen"/>munion truly saies, <hi>was one of the most Illustrious and Heroick Princes that ever Reign'd, and govern'd her Kingdom with a better Conduct and Vigour than any of her Predecessors?</hi>
+            </p>
+            <p>It would be easie to defend her from the Aspersions that have been cast on her by malice or ingratitude, were it not that one is even oppressed with the variety and lustre of those glorious Actions, which rendred her at once the Darling of her People, the Terror of her Enemies, and the Wonder of the World. But in answer to what has been objected against her, I think it sufficient to observe,</p>
+            <p n="1">1. That she cannot be justly charged with Cruelty towards the Puritans: and for proof of this I refer the Reader to a Let<g ref="char:EOLhyphen"/>ter which Secretary <hi>Walsingham,</hi> their great Favourer, writ to <hi>Monsieur Critoy:</hi> he may find it in Dr. <hi>Burnet</hi>'s excellent Histo<g ref="char:EOLhyphen"/>ry of the Reformation,<note place="margin">Part. 2. B. 3. p. 418. Ed. 2.</note> and in it such an account of the Kind<g ref="char:EOLhyphen"/>ness which she sometimes us'd them, and of the Occasions they gave her afterwards to alter her measures, as will justifie her, I think, in the sense of any indifferent person.</p>
+            <p n="2">2. As for the Papists, many of their Clergy have acknow<g ref="char:EOLhyphen"/>ledged, that, with respect to them, <hi>her Laws and Proceedings were mild and merciful: and they justly attributed the Severity which she sometimes thought necessary, to the provocations she receiv'd, and the Conspiracies in which their Zealots were engaged against her Person and Estate;</hi>
+               <note place="margin">
+                  <hi>Import. Consid. Edit. Anno</hi> 1601. <hi>Fou<g ref="char:EOLhyphen"/>lis</hi>'s Hist. of the Romish Usurpations, p. 421, 422, 423.</note> as may appear by the Important Consi<g ref="char:EOLhyphen"/>derations, published by divers secular Priests, and other Testi<g ref="char:EOLhyphen"/>monies collected by <hi>Foulis.</hi> But 'tis no wonder, neither does it derogate from her Clemency, that she put some restraints on her Popish Subjects, when it became so visible that they de<g ref="char:EOLhyphen"/>sign'd her destruction, and even<note n="*" place="margin">Camd. Eliz. An. <hi>1584. p. 378.</hi>
+               </note> in Printed Books instigated her Servants <hi>to treat her as</hi> Judith <hi>did</hi> Holofernes. But to proceed with our Author:</p>
+            <p>He says, that <hi>King</hi> James <hi>would needs be her Success<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r as to her
+<pb n="5" facs="tcp:100991:3"/>methods of Prudence, as well as to her Crown;</hi> which is very true: and that King esteem'd it a great honour to imitate her, who,<note n="†" place="margin">Epist. be<g ref="char:EOLhyphen"/>fore <hi>Basil. Dor.</hi> See K. <hi>James</hi>'s Works, p. 252, 253.</note> as he tells us, <hi>govern'd her Kingdoms with so great Wisdom and Felicity, that the like hath not been read nor heard of since the days of</hi> Augustus. He vindicates her from the Reproaches which were cast on her by her Enemies, and shews that the punish<g ref="char:EOLhyphen"/>ments, they so much accus'd, were <hi>extorted from her by the mani<g ref="char:EOLhyphen"/>fold intended Invasions against the whole Kingdom, the Foreign Pra<g ref="char:EOLhyphen"/>ctices, the Internal Publick Rebellions, Private Plots and Machinations, Poysonings, Murthers, and all sorts of Devices fomented by</hi> Rome: and he doubted not but in the Judgment of any impartial man, she <hi>must be as free from the Imputation of Persecution, as the hellish Inftruments,</hi> which drew on them her Indignation, <hi>were from be<g ref="char:EOLhyphen"/>ing Martyrs.</hi>
+            </p>
+            <p>But however, in other things he yielded her the prae-eminence, yet he exceeded her, he says, <hi>in Clemency:</hi> and the <hi>Papists</hi> were not <hi>sharpned,</hi> nor the <hi>number of his Enemies increas'd, by his Severity,</hi> as this Author pretends, but rather by the want of it: for he acquaints us, <hi>that many of his most faithful Subjects were cast into great fear and amazement at the course of his merciful pro<g ref="char:EOLhyphen"/>ceedings, and from thence prognosticated that sour fruit, which since shew'd it self clearly in the Powder Treason.</hi> So that if he needed an Apology, it was for an Excess of Lenity.</p>
+            <p>I need not examine his Censures of the two next succeeding Reigns: it may appear from what has been said, what profound Researches he has made into Affairs of State, and how fit he is to be critical on them. But rigid as he is, he hath his fits of Complaisance, and to shew what a man he can be at Pa<g ref="char:EOLhyphen"/>negyrique, when a Prudential Reason puts him into a good hu<g ref="char:EOLhyphen"/>mour, he thought fit to tell us,<note place="margin">See the E<g ref="char:EOLhyphen"/>pistle.</note>
+               <hi>That the King had a clearer Pro<g ref="char:EOLhyphen"/>spect of his own and of his Kingdoms Interest, than any of his Royal Predecessors ever had, and that he pursued it with that conduct and vigor which did correspond with the Miracles that preserv'd the Crown for him, and also him both for the Crown, and for a Glory greater than that of wearing Crowns, to wit, to be the Restorer of Religion to Liberty and Freedom of Exercise.</hi> This is very losty, and it puts me in mind of an expression in <hi>Tacitus, Pessimum inimicorum genus laudantes;</hi> and I think Princes have not greater Enemies than fawning Parasites, who take care, not to convey to them a true Representation of their Affairs, but onely such as is agreeable.</p>
+            <pb n="6" facs="tcp:100991:4"/>
+            <p> But let us see what he advances in this pang of Zeal for the King; or, to use some of his own words, let us <hi>speculate</hi> on the <hi>Prudentialness</hi> of what he <hi>Emits,</hi> p. 8. where he tells us, it was the <hi>just expectation of all the World, that</hi> H. M. <hi>should procure Free<g ref="char:EOLhyphen"/>dom of Exercise for the Roman Catholick Religion;</hi> and if he could not effect this <hi>with the Consent of his People, it would much eclipse the glory of his Character abroad.</hi> This is pretty modest! and 'tis an Argument of his Prudentialness, that he told us not plainly, that to increase the glory of <hi>H. M.</hi> and to inlarge his figure abroad, all his Subjects ought to have embraced his Religion, to which they might easily have been brought, had they been of the mind of some Loyal Addressers of famous memory, who promis'd to pay him an <hi>unlimited Obedience, and expressed their In<g ref="char:EOLhyphen"/>clinations</hi> to satisfie his Demands without articling with him.</p>
+            <p>The Author of the Apology for <hi>Catholicks,</hi> as I find him cited in the General Critique on <hi>Maimbourg's</hi> History of <hi>Calvinism,</hi> spake much more honestly,<note place="margin">Tom. <hi>2.</hi> Let. <hi>3.</hi> p. <hi>299.</hi>
+               </note> and declar'd, <hi>that 'tis a signal injury to Princes, to attribute to them this thought unworthy of Christians, and even of honest Pagans, that what they command, whether it be just or unjust, ought blindly to be done:</hi> and certainly, if they are Wise and good, they must needs abhor that incense which is offer'd to them at the expence of the Deity, from which they derive their Authority. Kings are then great enough, when they acknowledge no Superior but God, and pay Him all the Honour that is due unto His Name. They are then formidable abroad,<note place="margin">
+                  <hi>See Sir</hi> Robert Cott. Posthum. p. <hi>315.</hi>
+               </note> when they reign at home in the affections of their Sub<g ref="char:EOLhyphen"/>jects: for as my Lord <hi>Burleigh</hi> long since observ'd, <hi>to win Hearts is the way to gain Hands and Purses.</hi>
+            </p>
+            <p>I can take no pleasure to reflect on his Majesties loss of the Hearts of many of his Subjects, nor to dwell on the circum<g ref="char:EOLhyphen"/>stances of his Calamities: but since 'tis commonly known that it was a mighty Zeal for his Religion that imbroil'd his affairs, I shall onely farther observe, that 'tis no wonder he made such <hi>large steps</hi> to promote that Religion, if he believed, what this worthy Protestant suggests, that when he open'd the Romish Chappels, and endeavour'd to establish Popery by a Law, he did but <hi>satisfie the just expectation of all the World.</hi>
+            </p>
+            <p>I know not how he came to be acquainted with the expecta<g ref="char:EOLhyphen"/>tion of all the World: but 'tis plain enough, that the Papists themselves, credulous as they were, did not believe that a free
+<pb n="7" facs="tcp:100991:4"/>Parliament would answer their ends: and it was easy for others to see, that Persons of Condition, like to be Members of that Illustrious Body, were generally sensible how much those nice and tender things, call'd Liberty and Property, were indanger'd by the approaches and growth of Popery. It might well be thought, they would not be willing to transform <hi>England</hi> into such a Beast, as had been so Tame and Patient under the greatest burthens, in the days of Catholick ignorance: or to leave their Estates and Fortunes to the Mercy and Devotion of shorn Crowns.</p>
+            <p>It might also reasonably be expected, that they should em<g ref="char:EOLhyphen"/>ploy their endeavours to preserve in this land the true Worship, when others were so industrious to promote that which is er<g ref="char:EOLhyphen"/>ronious and idolatrous, and consequently that they would not pull down the hedges, which with such vast expence, were rais'd to secure the Reformed Religion, nor throw up our Laws in a compliment, when we had most need of them.</p>
+            <p>But this Author is offended at these Laws, because they re<g ref="char:EOLhyphen"/>present his Catholicks as so <hi>criminal and ill a sort of Men,</hi> and of <hi>principles so very bad, that the utmost severity against them is little enough;</hi> and he thought none could believe them to be such, but they must make a forfeiture of the Reverence and Allegiance they ow'd to the King. And here 'tis observable that as he would be thought to have a great regard of his Allegiance to the King, whose conduct he so admires and Celebrates, so accord<g ref="char:EOLhyphen"/>ing to his way of arguing, he must be free from that ill opinion of the Kings Religion, which the Makers and Assertors of the Laws entertain'd. But when he would persuade us that the Laws ought to be abrogated, because they cast such ill reflections on Popery and keep up our detestation of it; he may be pleas'd to know that the Nation is not dispos'd to buy favorable thoughts of it at that rate, or to part with every thing that represents it as a very hateful Religion.</p>
+            <p>The Holy Scripture represents it so hateful,<note place="margin">See their Ad<g ref="char:EOLhyphen"/>vice printed at <hi>London Anno</hi> 1688. <hi>p.</hi> 27, 28, 29.</note> that the Prelates assembled at <hi>Bononia</hi> by the order of Pope <hi>Julius</hi> 3. advis'd his Holiness, that this was a <hi>Book quite repugnant to their doctrine, a Book that above all others rais'd the Storms and Tempests, which had almost driven them to destruction.</hi> They were also much offended at the studies of Greek and Hebrew, and of the Ancient Fathers, and they might have proceeded to condemn sense and reason for their Heretical informations: but we do not think our selves
+<pb n="8" facs="tcp:100991:5"/>obliged, to reject the divine Oracles or the languages in which they were delivered: we think it not necessary to suppress the primitive writers, or to put out our Eyes or our understandings, because they keep up our aversion from Popery. Neither have we any reason to complain of the Learned Sermons, and Printed Books that have oppos'd and baffled it, or of the Test that ex<g ref="char:EOLhyphen"/>cludes the Professors of it from Offices and Places of Trust; and if this cast an ill reflection on them, we could wish they had not deserved it; but we beg their excuse, that we cannot shift our Opinions of them at their pleasure, or imitate the Pru<g ref="char:EOLhyphen"/>dentialness of their Advocate, who perhaps is not disinterested enough to give any reputation to their Cause.</p>
+            <p>Upon the whole I cannot find, that he hath acquitted himself either as it became a Person of Quality, or a Protestant: For,</p>
+            <p n="1">1. It might have been expected that a Person of Quality would have treated Parliaments with more respect. It seems not very decent to represent them as mopt with passion and preju<g ref="char:EOLhyphen"/>dice, or influenced by an impotent fury: As Cruel and Partial in their determinations, and that when the mighty affairs of Religion and Liberty, of Estates and Lives lay before them. Yet the description he gives of their proceedings amounts to thus much, and I know not whether it be so applicable to the <hi>Divan</hi> at <hi>Algiers,</hi> or any other <hi>Cabal</hi> of Villains, as it is to the Holy In<g ref="char:EOLhyphen"/>quisition and other Catholick Courts of Justice.</p>
+            <p>That I have not injur'd him in what has been said, will be manifest from what I come now to relate.<note place="margin">p. 2.</note> He says that <hi>all the burthensome Laws about Religion that from time to time have been en<g ref="char:EOLhyphen"/>acted in our English Parliaments against Recusants, have something in them of violent, inequitable and extravagant.</hi> He was not content to load them with an ill name; to call <hi>them the two-handed tools of Contention and Faction,</hi>
+               <note place="margin">p. 4</note>
+               <hi>and to cry, Away with them;</hi> as if he could huff them out of the World: but he tells us, <hi>they were all made in a passion of state and onely to humor the times.</hi>
+               <note place="margin">p. 2.</note> One cannot but admire the hardiness of the man, or think that he had not <hi>wip't his Eyes,</hi> when he adventur'd to cast such reproaches on the Great Councils of the Kingdom, so fam'd for their Wisdom and Justice. But it was become the interest of some that there should be no more Parliaments, or else that they should be rendred very despicable, which might easily be effected, if it could be prov'd that their Acts from time to time about things
+<pb n="9" facs="tcp:100991:5"/>of the greatest moment, were <hi>Violent, Inequitable and Extrava<g ref="char:EOLhyphen"/>gant.</hi> They would be thought very unfit to make Laws for others,<note place="margin">Arist. Pol. l. <hi>3.</hi> sect. <hi>103.</hi>
+               </note> when themselves are govern'd by passion: for as <hi>Aristotle</hi> says in his Politicks, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A Law is a Mind unbiass'd by passion. He also tells us, that <hi>Lust is a kind of Beast, and that Anger perverts Magistrates and persons of the great<g ref="char:EOLhyphen"/>est eminence.</hi> So that I know not what great good can be ex<g ref="char:EOLhyphen"/>pected from them, if they are directed, not by prudent and deliberate counsels, but by indignation and a brutal rage.</p>
+            <p>But tho' I cannot find that this Author hath maintained the Character of a Person of Quality, yet I deny not that he was projecting to be one: for to do his prudentialness right, he seems to have nickt the promising means of greatness. Sir <hi>James Melvil</hi> gives this account of himself,<note place="margin">See the Epist. before his Memoirs.</note> that if he had mind<g ref="char:EOLhyphen"/>ed his own advancement and profit, he should have suggested to the Queen, that <hi>if shecondescended to acquiesce to the Establishment of the Reformed Religion, it would be constructed a meanness of Spirit, and that she wanted Authority to curb such a mutinous People, that it was below her at the arrogant desire of her Nobility, and to remove the Jealousies of her other Subjects, to lay aside</hi> Riccio, <hi>as being dero<g ref="char:EOLhyphen"/>gatory from her honour, that she could not have liberty to keep about her what Servants she pleas'd: seeing hence there might be ground to alledge, there were other bad designs to follow, when in the first place they desir'd to separate from her such as they knew would be most trusty to her, and in whom she could most confide. This kind of Language, he says, would probably have most suited her Majesties humour, and would have procured him great Bribes from her Italian Favorite and his Popish Friends.</hi> Yet he professes that such was his integrity, that he declin'd those thriving methods. But our prudentialist is not so nice and scrupulous: for he insinuates, as we have seen, that the King in his attempts to give freedom of Exercise to Popery, <hi>did but answer the just expectation of all the World:</hi> that if the Parliament would not confirm it, they were Enemies to his Honour, and would <hi>eclipse his Glory:</hi> that the Penal Laws occasion'd ill reflections on him, by representing Papists such a a Criminal sort of Men as none could believe them to be, who preserv'd any love and reverence or allegiance for him. He also intimates that it would have been <hi>a Solecism,</hi>
+               <note place="margin">See p. 8, 9.</note>
+               <hi>a very odd thing
+<pb n="10" facs="tcp:100991:6"/>and a self condemnation, for the King to have punish'd the publick exer<g ref="char:EOLhyphen"/>cise of that Religion which himself approv'd and avow'd.</hi> But if he could not repeal the Laws, whether His Majesty was then ob<g ref="char:EOLhyphen"/>liged to require his Judges to act against them, and the Oaths they had taken: or whether his Royal Perogative might cancel the obligation of the Laws he hath not told us. Yet he seems most inclin'd to the last, for he extols the late Dispensation and tells what mighty feats it had done. He pretends, it was re<g ref="char:EOLhyphen"/>ceived with such approbation, that it charm'd down <hi>all the Idle Stories of Prophecies and Prodigies:</hi>
+               <note place="margin">p. 10.</note> that it silenced all <hi>murmurs, and recovered trade to a wonder, which lay gasping for life before.</hi> Now this may be true of the trade of making Images and other Trin<g ref="char:EOLhyphen"/>kets, of selling Pardons, or buying Converts: But such as had been conversant in other Trades, complain'd more than ever. There ap<g ref="char:EOLhyphen"/>pear'd also in the Nation a general dissatisfaction, and nothing was thought safe, when a power to dispence with Laws that se<g ref="char:EOLhyphen"/>cure our Rights, was asserted and magnified. But the Pruden<g ref="char:EOLhyphen"/>tial men, who had so great a share in hastning our miseries, thought fit to keep this from the knowledge of him who had power to redress the grievances of the Nation.</p>
+            <p n="2">2. We are yet at a greater loss for the Protestant than we have been for the Person of Quality. However, it were not necessary to make Enquiry under what denomination he ought to be considered, but that he seems to have usurpt one to which he has no Right, that he might give a taking Colour to his Pro<g ref="char:EOLhyphen"/>posals.<note n="*" place="margin">Auteur de la Critique Gene<g ref="char:EOLhyphen"/>ro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</note> An Ingenious Author gives this Character of <hi>Gregorio Leti,</hi> that he hath exactly observ'd this Maxim, <hi>that in a History there is no need one should know the Religion of the Historian.</hi> But this man in the front of his work proclaims himself a Protestant, and yet may find some difficulty to gain a belief that he is one, be<g ref="char:EOLhyphen"/>cause his Book seems to combate his title, and to give better in<g ref="char:EOLhyphen"/>dications of his inward sense and inclinations than that glorious name he assum'd.</p>
+            <p>We have seen his Endeavours to take off the <hi>odium</hi> of Po<g ref="char:EOLhyphen"/>pery. But he mentions the Reformation as a thing that was apt to infect;<note place="margin">p. 5.</note> as if it had been some contagious disease: and how<g ref="char:EOLhyphen"/>ever he dare not approve the Counsel that was given by <hi>Fryer
+<pb n="11" facs="tcp:100991:6"/>Hogostrate</hi> to destroy it, yet he intimates, <hi>that if Chains and Fire had been apply'd at the beginning, as the only proper remedy, this course probably would for ever have prevented it.</hi> For, as he observes, <hi>in such cases the quickest and severest Remedies seem the best, because they Eradicate.</hi>
+            </p>
+            <p>But since the season of <hi>Eradicating</hi> the Reformation is slipt, and since the disease is become so Epidemical, he thinks it does not indicate burning or bleeding. The Fire and Sword are only proper Remedies when they can <hi>Eradicate.</hi> And we thank his <hi>Prudentialness,</hi> that we may be suffered to live and breath, when his Catholick friends want power to extirpate us.</p>
+            <p>I deny not that he thought it expedient to express a little ten<g ref="char:EOLhyphen"/>derness for Dissenters, whom he calls Fanaticks, but that this was forced and artificial, may appear when the true secret of it comes to be considered. In the mean time, he seems not to have consulted their reputation, when he parallel'd their case with that of <hi>Barrow</hi> and <hi>others,</hi> who as he tells us,<note place="margin">p. 6.</note>
+               <hi>were hanged as Felons,</hi> or where he insinuates that in the time of King <hi>Charles</hi> 2. <hi>they join'd in the cry against the growth of Popery;</hi>
+               <note place="margin">p. 3.</note> not out of zeal for Religion, but <hi>out of a sense of Revenge, and from that of interest.</hi> He is willing, however, they should have a share of the indulgence, for which he pleads, because <hi>otherwise his Catholicks could not long think to enjoy their Toleration,</hi> it <hi>would become so in<g ref="char:EOLhyphen"/>vidious, and such a Subject of Clamor and general Scandal,</hi> p. 9. But I wonder his Masters would suffer him to discover this Mystery: For what he saies imports thus much, that the great business of Popery could not be carried on prosperously, unless it were sup<g ref="char:EOLhyphen"/>ported by some Protestants, who yet might be thrown aside with as much contempt as their Brethren, when they had per<g ref="char:EOLhyphen"/>form'd the work which was cut out for them.</p>
+            <p>But since so many persons of worth and Eminence have en<g ref="char:EOLhyphen"/>gaged their Endeavours to procure a <hi>due liberty</hi> for Dissenters, I doubt not but hereafter they may receive it upon more ho<g ref="char:EOLhyphen"/>nourable terms than formerly. But what is most desirable is, that there may be such a mutual condescension, that Protestants, at present differing only in circumstances, may be united in the
+<pb n="12" facs="tcp:100991:7"/>same Communion: For this would have all the benefit of To<g ref="char:EOLhyphen"/>leration, without any of its disadvantages. And however this Author wonders that the World should be so fond of Uniformity in the Externals of Religion, I am still of S. <hi>Pauls</hi> Judgment, that we ought to <hi>glorify God with one heart and one mouth; to speak the same thing, that there be no division among us; and to En<g ref="char:EOLhyphen"/>deavour to keep the Ʋnity of the Spirit in the bond of Peace.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Licensed <hi>January</hi> 26. 1689.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Samuel Smith</hi> at the <hi>Prince</hi>'s <hi>Arms,</hi> in St. <hi>Pauls</hi> Church-yard. 1689.</p>
+            <pb facs="tcp:100991:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
